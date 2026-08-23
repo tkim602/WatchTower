@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+out/
+**/out/
+**/cache/
+*.npy
+*.npz
+*.pkl
+
+.DS_Store
+.pytest_cache/
+.ruff_cache/
